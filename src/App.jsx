@@ -7,8 +7,8 @@ function App() {
 
   return (
     <>
-      <Employee/>
-      <StateDemo/>
+     
+      <StateDemo message="Print in child component -- prop dilling example"/>
           </>
   )
 }
